@@ -3,7 +3,7 @@
 # Build Command
 
 To build this project, navigate to the root directory of the 
-project and use the command npm build run
+project and use the command npm run build
 
 # Start Command
 
