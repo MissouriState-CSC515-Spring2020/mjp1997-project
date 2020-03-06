@@ -18,8 +18,8 @@ import { Link } from 'react-router-dom';
 const RecentPics = (props) => {
 	return (
 		<div>
-			<h2 class='center-align'>Welcome to Mitch's Social Media Hub!
-		<i class="material-icons" id='iconSize'>share</i>
+			<h2 className='center-align'>Welcome to Mitch's Social Media Hub!
+		<i className="material-icons" id='iconSize'>share</i>
 			</h2>
 			<div className="row">
 				<h4 className='categoryHead'>
