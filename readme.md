@@ -1,3 +1,11 @@
 # Repository for class project
 
-This readme is a placeholder that should be replaced
+# Build Command
+
+To build this project, navigate to the root directory of the 
+project and use the command npm run build
+
+# Start Command
+
+To start a local development server for this project, navigate to the root directory of the 
+project and use the command npm start
