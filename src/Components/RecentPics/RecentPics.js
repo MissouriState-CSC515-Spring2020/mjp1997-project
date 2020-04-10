@@ -23,7 +23,7 @@ const RecentPics = (props) => {
 			</h2>
 			<div className="row">
 				<h4 className='categoryHead'>
-					Mitch's Recent Pics
+					______'s Recent Videos
 				</h4>
 				<div className="col s2">
 				<Link to='/pictureDescription'>
